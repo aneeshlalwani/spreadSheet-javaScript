@@ -15,3 +15,6 @@ where code is organized into smaller functions that are combined to build comple
 - find() : method for searching arrays
 - parseInt() : for converting strings to integers
 - includes() : method for checking array inclusion
+
+### Live Link
+![Live Link](https://6610f7b32f17ffab2ec01a11--remarkable-blancmange-ce5f5a.netlify.app/)
