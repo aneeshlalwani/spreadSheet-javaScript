@@ -17,4 +17,4 @@ where code is organized into smaller functions that are combined to build comple
 - includes() : method for checking array inclusion
 
 ### Live Link
-[Visit Website](https://6610f7b32f17ffab2ec01a11--remarkable-blancmange-ce5f5a.netlify.app/)
+[Visit Website](https://javascript-spreadsheet.netlify.app/)
